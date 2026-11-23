@@ -1,0 +1,401 @@
+ticket_id,created_at,channel,customer_segment,category,priority,sentiment,correct_team,assigned_team,misrouted,reassignments,sla_target_hrs,first_response_hrs,resolution_hrs,sla_breached,csat,ticket_text
+TK-1001,2026-09-01 10:36,Web Form,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,8.87,46.34,False,5.0,Courier marked order NC733367 as delivered but I never received anything.
+TK-1002,2026-09-01 11:00,Web Form,Regular,Damaged / Wrong Item,High,Negative,Logistics,Logistics,False,0,6,4.39,26.7,False,,The item in order NC957623 arrived broken. Photos attached.
+TK-1003,2026-09-01 12:31,Chat,Premium,Refund / Return,Medium,Negative,Billing,Billing,False,0,12,5.54,31.75,False,,I returned order NC180535 two weeks ago and have not received my refund.
+TK-1004,2026-09-01 12:34,Web Form,New,Account / Login,Medium,Negative,Tech Support,Tech Support,False,0,12,12.9,72.47,True,,My account was locked after several password attempts.
+TK-1005,2026-09-01 12:51,Web Form,Premium,Complaint / Escalation,High,Negative,Senior Support,Logistics,True,1,6,8.1,16.64,True,,This is the third time I am contacting you about order NC986030. No one has solved it. I want a manager.
+TK-1006,2026-09-01 13:13,Web Form,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,3.44,27.68,False,4.0,Courier marked order NC693418 as delivered but I never received anything.
+TK-1007,2026-09-01 15:04,Web Form,Regular,Account / Login,High,Negative,Tech Support,Tech Support,False,0,6,3.96,33.73,False,,My account was locked after several password attempts.
+TK-1008,2026-09-01 17:15,Web Form,New,Product Inquiry,Low,Neutral,General Support,General Support,False,0,24,18.64,57.74,False,,Can you tell me if this item is suitable for sensitive skin?
+TK-1009,2026-09-01 21:39,Web Form,Premium,Refund / Return,Low,Neutral,Billing,Billing,False,0,24,10.42,82.4,False,5.0,Refund was issued for less than the amount I paid on order NC790572.
+TK-1010,2026-09-02 03:12,Email,New,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,5.15,32.1,False,4.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1011,2026-09-02 08:08,Chat,New,Account / Login,High,Negative,Tech Support,Tech Support,False,0,6,0.82,22.65,False,4.0,"I cannot log in, the OTP never arrives."
+TK-1012,2026-09-02 10:39,Web Form,Regular,Damaged / Wrong Item,Low,Neutral,Logistics,General Support,True,1,24,27.63,54.41,True,2.0,The item in order NC987257 arrived broken. Photos attached.
+TK-1013,2026-09-02 10:45,Email,Regular,Delivery Delay,Low,Neutral,Logistics,Logistics,False,0,24,23.21,40.89,False,4.0,Courier marked order NC283725 as delivered but I never received anything.
+TK-1014,2026-09-02 11:23,Email,Regular,Delivery Delay,Urgent,Neutral,Logistics,Logistics,False,0,2,1.7,6.18,False,5.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1015,2026-09-02 12:37,Chat,Regular,Product Inquiry,Low,Negative,General Support,General Support,False,0,24,9.78,40.73,False,4.0,Is this product available in size M and when will it restock?
+TK-1016,2026-09-02 14:14,Email,Regular,Complaint / Escalation,Urgent,Negative,Senior Support,Senior Support,False,0,2,1.38,19.48,False,4.0,This is the third time I am contacting you about order NC570383. No one has solved it. I want a manager.
+TK-1017,2026-09-02 14:14,Web Form,Premium,Refund / Return,Low,Neutral,Billing,Billing,False,0,24,4.24,67.74,False,,How do I return a product that does not fit? The return link is not working.
+TK-1018,2026-09-02 15:38,Email,Regular,Delivery Delay,Medium,Negative,Logistics,General Support,True,2,12,16.2,34.9,True,3.0,Courier marked order NC464172 as delivered but I never received anything.
+TK-1019,2026-09-02 16:03,Email,Regular,Delivery Delay,Low,Neutral,Logistics,Logistics,False,0,24,18.1,47.6,False,5.0,My order NC523552 was due 5 days ago and tracking has not updated. Where is it?
+TK-1020,2026-09-03 09:02,Email,Regular,Product Inquiry,Low,Positive,General Support,General Support,False,0,24,7.45,37.49,False,,Can you tell me if this item is suitable for sensitive skin?
+TK-1021,2026-09-03 11:10,Email,Regular,Complaint / Escalation,High,Negative,Senior Support,Billing,True,2,6,8.56,45.42,True,4.0,This is the third time I am contacting you about order NC210500. No one has solved it. I want a manager.
+TK-1022,2026-09-03 11:16,Chat,New,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,10.58,39.02,False,4.0,My order NC858466 was due 5 days ago and tracking has not updated. Where is it?
+TK-1023,2026-09-03 12:29,Social Media,Regular,Damaged / Wrong Item,Urgent,Negative,Logistics,Logistics,False,0,2,1.47,15.74,False,5.0,Parcel was open and a product is missing from order NC521119.
+TK-1024,2026-09-03 20:40,Social Media,Regular,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,8.22,19.86,False,4.0,I returned order NC578351 two weeks ago and have not received my refund.
+TK-1025,2026-09-04 10:07,Email,Regular,Complaint / Escalation,High,Negative,Senior Support,Tech Support,True,2,6,11.3,35.14,True,,This is the third time I am contacting you about order NC479432. No one has solved it. I want a manager.
+TK-1026,2026-09-04 10:21,Web Form,Regular,Damaged / Wrong Item,Low,Negative,Logistics,Logistics,False,0,24,19.36,125.88,False,,I received a different colour than what I ordered.
+TK-1027,2026-09-04 10:23,Web Form,Regular,Payment Failure,High,Neutral,Billing,Senior Support,True,1,6,4.34,20.17,False,4.0,I was charged twice for order NC383224. Please reverse one payment.
+TK-1028,2026-09-04 12:19,Email,Regular,Damaged / Wrong Item,Medium,Neutral,Logistics,Logistics,False,0,12,11.53,34.83,False,,Parcel was open and a product is missing from order NC359149.
+TK-1029,2026-09-04 12:23,Chat,New,Payment Failure,Medium,Negative,Billing,Tech Support,True,2,12,17.52,45.89,True,2.0,I was charged twice for order NC751507. Please reverse one payment.
+TK-1030,2026-09-04 12:49,Social Media,Regular,Delivery Delay,Low,Negative,Logistics,Logistics,False,0,24,18.01,56.2,False,5.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1031,2026-09-04 13:47,Email,Regular,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,8.21,69.17,False,,How do I return a product that does not fit? The return link is not working.
+TK-1032,2026-09-04 16:52,Chat,Regular,Delivery Delay,High,Neutral,Logistics,Logistics,False,0,6,2.17,20.69,False,5.0,My order NC316670 was due 5 days ago and tracking has not updated. Where is it?
+TK-1033,2026-09-04 20:37,Chat,Regular,Complaint / Escalation,High,Negative,Senior Support,Senior Support,False,0,6,1.2,12.65,False,,Nobody has replied to me for three days. Escalate this immediately.
+TK-1034,2026-09-05 12:29,Chat,New,Delivery Delay,High,Neutral,Logistics,Logistics,False,0,6,4.41,16.85,False,,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1035,2026-09-05 14:07,Email,Regular,Product Inquiry,Medium,Positive,General Support,General Support,False,0,12,4.47,54.9,False,,Does the blender come with a warranty and what does it cover?
+TK-1036,2026-09-05 16:27,Chat,Regular,Product Inquiry,Low,Neutral,General Support,General Support,False,0,24,32.19,46.54,True,3.0,Can you tell me if this item is suitable for sensitive skin?
+TK-1037,2026-09-05 20:17,Chat,New,Delivery Delay,Low,Negative,Logistics,Logistics,False,0,24,25.74,72.28,True,3.0,My order NC212677 was due 5 days ago and tracking has not updated. Where is it?
+TK-1038,2026-09-05 21:00,Email,New,Payment Failure,Urgent,Negative,Billing,Billing,False,0,2,1.16,5.71,False,3.0,I was charged twice for order NC910447. Please reverse one payment.
+TK-1039,2026-09-05 21:36,Web Form,Premium,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,5.86,26.14,False,,Refund was issued for less than the amount I paid on order NC460410.
+TK-1040,2026-09-06 04:02,Email,Premium,Refund / Return,Medium,Negative,Billing,Billing,False,0,12,5.43,17.23,False,,How do I return a product that does not fit? The return link is not working.
+TK-1041,2026-09-06 09:42,Email,New,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,14.49,103.87,True,3.0,I returned order NC434929 two weeks ago and have not received my refund.
+TK-1042,2026-09-06 10:01,Web Form,Regular,Refund / Return,High,Negative,Billing,Billing,False,0,6,2.43,23.63,False,,Refund was issued for less than the amount I paid on order NC934882.
+TK-1043,2026-09-06 10:26,Email,Regular,Account / Login,Urgent,Neutral,Tech Support,Tech Support,False,0,2,2.06,22.15,True,4.0,"I cannot log in, the OTP never arrives."
+TK-1044,2026-09-06 11:18,Chat,Premium,Delivery Delay,High,Negative,Logistics,Logistics,False,0,6,7.25,24.06,True,3.0,Courier marked order NC734245 as delivered but I never received anything.
+TK-1045,2026-09-06 13:25,Social Media,Regular,Delivery Delay,Low,Negative,Logistics,Senior Support,True,2,24,11.5,25.58,False,,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1046,2026-09-06 22:34,Web Form,New,Damaged / Wrong Item,High,Negative,Logistics,Logistics,False,0,6,10.07,28.07,True,3.0,Parcel was open and a product is missing from order NC246761.
+TK-1047,2026-09-07 06:29,Email,New,Complaint / Escalation,High,Negative,Senior Support,Billing,True,1,6,4.07,26.91,False,,This is the third time I am contacting you about order NC138059. No one has solved it. I want a manager.
+TK-1048,2026-09-07 16:02,Social Media,Regular,Complaint / Escalation,Medium,Negative,Senior Support,Senior Support,False,0,12,12.03,44.96,True,3.0,This is the third time I am contacting you about order NC546126. No one has solved it. I want a manager.
+TK-1049,2026-09-07 18:18,Email,Premium,Refund / Return,Low,Negative,Billing,Billing,False,0,24,16.18,65.39,False,4.0,How do I return a product that does not fit? The return link is not working.
+TK-1050,2026-09-07 18:20,Web Form,Regular,Damaged / Wrong Item,Medium,Negative,Logistics,Logistics,False,0,12,7.56,70.82,False,,The item in order NC714630 arrived broken. Photos attached.
+TK-1051,2026-09-07 19:41,Web Form,Premium,Damaged / Wrong Item,High,Negative,Logistics,Logistics,False,0,6,2.93,18.57,False,4.0,I received a different colour than what I ordered.
+TK-1052,2026-09-08 05:53,Email,Premium,Payment Failure,High,Negative,Billing,Billing,False,0,6,0.79,13.54,False,4.0,Payment keeps failing at checkout with my UPI app.
+TK-1053,2026-09-08 06:16,Chat,Premium,Complaint / Escalation,High,Neutral,Senior Support,Senior Support,False,0,6,2.9,11.43,False,,Nobody has replied to me for three days. Escalate this immediately.
+TK-1054,2026-09-08 06:30,Chat,Regular,Payment Failure,High,Neutral,Billing,Billing,False,0,6,2.27,48.68,False,,Payment keeps failing at checkout with my UPI app.
+TK-1055,2026-09-08 10:48,Chat,Regular,Delivery Delay,Medium,Neutral,Logistics,Billing,True,1,12,12.52,33.44,True,3.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1056,2026-09-08 12:02,Email,Regular,Payment Failure,Urgent,Neutral,Billing,Billing,False,0,2,2.81,19.18,True,4.0,Money was deducted from my account but order NC612609 shows payment failed.
+TK-1057,2026-09-08 12:27,Email,Regular,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,20.72,64.14,True,4.0,How do I return a product that does not fit? The return link is not working.
+TK-1058,2026-09-09 10:51,Web Form,Regular,Product Inquiry,Low,Negative,General Support,General Support,False,0,24,46.31,69.91,True,,Can you tell me if this item is suitable for sensitive skin?
+TK-1059,2026-09-09 12:25,Web Form,New,Refund / Return,Low,Neutral,Billing,Billing,False,0,24,15.93,77.54,False,,I returned order NC597687 two weeks ago and have not received my refund.
+TK-1060,2026-09-09 12:53,Social Media,Premium,Delivery Delay,Low,Neutral,Logistics,Logistics,False,0,24,29.26,87.28,True,4.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1061,2026-09-09 13:41,Chat,New,Account / Login,Medium,Negative,Tech Support,Tech Support,False,0,12,2.31,20.65,False,,"I cannot log in, the OTP never arrives."
+TK-1062,2026-09-09 22:06,Chat,Premium,Account / Login,Medium,Positive,Tech Support,Tech Support,False,0,12,3.41,52.16,False,5.0,"I cannot log in, the OTP never arrives."
+TK-1063,2026-09-10 09:04,Social Media,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,12.72,56.82,True,4.0,My order NC719200 was due 5 days ago and tracking has not updated. Where is it?
+TK-1064,2026-09-10 10:14,Chat,Regular,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,5.35,19.96,False,,Refund was issued for less than the amount I paid on order NC973707.
+TK-1065,2026-09-10 12:59,Chat,Regular,Account / Login,Low,Positive,Tech Support,Tech Support,False,0,24,14.45,75.61,False,4.0,"I cannot log in, the OTP never arrives."
+TK-1066,2026-09-10 13:00,Web Form,Regular,Complaint / Escalation,High,Negative,Senior Support,Billing,True,1,6,7.73,19.15,True,2.0,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1067,2026-09-10 15:22,Chat,Regular,Complaint / Escalation,Medium,Neutral,Senior Support,Senior Support,False,0,12,11.38,28.41,False,3.0,This is the third time I am contacting you about order NC328909. No one has solved it. I want a manager.
+TK-1068,2026-09-10 15:47,Social Media,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,13.49,54.67,True,4.0,My order NC661657 was due 5 days ago and tracking has not updated. Where is it?
+TK-1069,2026-09-10 16:29,Email,New,Complaint / Escalation,High,Negative,Senior Support,Senior Support,False,0,6,3.16,26.39,False,4.0,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1070,2026-09-11 09:08,Email,Regular,Payment Failure,Urgent,Negative,Billing,Billing,False,0,2,1.82,14.67,False,5.0,Payment keeps failing at checkout with my UPI app.
+TK-1071,2026-09-11 10:26,Web Form,New,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,6.15,30.29,False,4.0,My order NC638964 was due 5 days ago and tracking has not updated. Where is it?
+TK-1072,2026-09-11 10:33,Email,New,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,11.76,78.17,False,,How do I return a product that does not fit? The return link is not working.
+TK-1073,2026-09-11 10:42,Web Form,Regular,Delivery Delay,High,Negative,Logistics,Logistics,False,0,6,5.08,9.56,False,5.0,Courier marked order NC270056 as delivered but I never received anything.
+TK-1074,2026-09-11 14:46,Email,Premium,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,4.74,61.36,False,5.0,I returned order NC283669 two weeks ago and have not received my refund.
+TK-1075,2026-09-11 17:29,Email,New,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,3.28,43.09,False,4.0,Courier marked order NC949970 as delivered but I never received anything.
+TK-1076,2026-09-11 17:41,Chat,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,3.81,61.04,False,5.0,Courier marked order NC111283 as delivered but I never received anything.
+TK-1077,2026-09-11 19:10,Chat,Premium,Account / Login,Medium,Positive,Tech Support,Tech Support,False,0,12,11.67,34.14,False,4.0,"I cannot log in, the OTP never arrives."
+TK-1078,2026-09-12 07:20,Chat,Regular,Account / Login,Low,Negative,Tech Support,Tech Support,False,0,24,14.27,61.08,False,4.0,My account was locked after several password attempts.
+TK-1079,2026-09-12 08:23,Chat,New,Product Inquiry,Medium,Neutral,General Support,Senior Support,True,2,12,21.0,52.9,True,3.0,Is this product available in size M and when will it restock?
+TK-1080,2026-09-12 09:27,Social Media,Premium,Delivery Delay,High,Negative,Logistics,Logistics,False,0,6,3.76,15.75,False,4.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1081,2026-09-12 11:40,Chat,Regular,Payment Failure,High,Negative,Billing,Billing,False,0,6,5.91,25.51,False,,Money was deducted from my account but order NC344993 shows payment failed.
+TK-1082,2026-09-12 13:37,Web Form,Regular,Payment Failure,High,Neutral,Billing,Billing,False,0,6,5.22,30.94,False,4.0,Payment keeps failing at checkout with my UPI app.
+TK-1083,2026-09-12 14:44,Web Form,Premium,Complaint / Escalation,Urgent,Negative,Senior Support,General Support,True,2,2,8.06,34.02,True,,Nobody has replied to me for three days. Escalate this immediately.
+TK-1084,2026-09-12 15:59,Social Media,Regular,Refund / Return,High,Negative,Billing,Billing,False,0,6,8.78,22.56,True,3.0,How do I return a product that does not fit? The return link is not working.
+TK-1085,2026-09-12 16:14,Email,Regular,Refund / Return,High,Negative,Billing,Billing,False,0,6,0.67,22.44,False,4.0,How do I return a product that does not fit? The return link is not working.
+TK-1086,2026-09-12 17:44,Email,New,Payment Failure,Medium,Neutral,Billing,Billing,False,0,12,5.11,65.27,False,,Money was deducted from my account but order NC967770 shows payment failed.
+TK-1087,2026-09-13 09:21,Social Media,Premium,Refund / Return,High,Neutral,Billing,Billing,False,0,6,3.52,59.81,False,4.0,I returned order NC375354 two weeks ago and have not received my refund.
+TK-1088,2026-09-13 09:28,Web Form,Regular,Payment Failure,Medium,Neutral,Billing,Billing,False,0,12,15.19,45.44,True,,Payment keeps failing at checkout with my UPI app.
+TK-1089,2026-09-13 10:26,Social Media,Premium,Refund / Return,High,Negative,Billing,Billing,False,0,6,1.88,8.02,False,4.0,I returned order NC270077 two weeks ago and have not received my refund.
+TK-1090,2026-09-13 10:46,Web Form,Regular,Complaint / Escalation,High,Negative,Senior Support,Logistics,True,2,6,7.71,14.72,True,2.0,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1091,2026-09-13 11:16,Social Media,Regular,Payment Failure,High,Negative,Billing,Billing,False,0,6,7.3,25.79,True,4.0,Payment keeps failing at checkout with my UPI app.
+TK-1092,2026-09-13 11:50,Email,New,Delivery Delay,High,Negative,Logistics,Logistics,False,0,6,9.13,23.3,True,,Courier marked order NC522194 as delivered but I never received anything.
+TK-1093,2026-09-13 12:24,Web Form,Regular,Refund / Return,High,Neutral,Billing,Senior Support,True,2,6,9.77,34.61,True,,Refund was issued for less than the amount I paid on order NC839085.
+TK-1094,2026-09-13 13:47,Web Form,New,Complaint / Escalation,High,Negative,Senior Support,Senior Support,False,0,6,3.78,41.87,False,3.0,Nobody has replied to me for three days. Escalate this immediately.
+TK-1095,2026-09-13 15:24,Email,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,4.42,43.05,False,,Courier marked order NC297556 as delivered but I never received anything.
+TK-1096,2026-09-14 07:42,Social Media,New,Refund / Return,Low,Neutral,Billing,Billing,False,0,24,16.9,58.98,False,,How do I return a product that does not fit? The return link is not working.
+TK-1097,2026-09-14 09:28,Chat,Regular,Account / Login,Medium,Negative,Tech Support,Tech Support,False,0,12,16.57,46.26,True,3.0,"I cannot log in, the OTP never arrives."
+TK-1098,2026-09-14 09:32,Chat,Regular,Refund / Return,High,Neutral,Billing,Billing,False,0,6,6.55,30.25,True,4.0,Refund was issued for less than the amount I paid on order NC795827.
+TK-1099,2026-09-14 11:11,Chat,Regular,Account / Login,Medium,Positive,Tech Support,Tech Support,False,0,12,9.77,70.79,False,,"I cannot log in, the OTP never arrives."
+TK-1100,2026-09-14 13:23,Chat,Regular,Delivery Delay,High,Neutral,Logistics,Logistics,False,0,6,5.38,15.09,False,,Courier marked order NC575664 as delivered but I never received anything.
+TK-1101,2026-09-14 17:05,Chat,Regular,Refund / Return,High,Neutral,Billing,Billing,False,0,6,2.51,11.92,False,5.0,Refund was issued for less than the amount I paid on order NC868689.
+TK-1102,2026-09-14 17:14,Email,New,Complaint / Escalation,High,Negative,Senior Support,Senior Support,False,0,6,5.58,24.19,False,3.0,This is the third time I am contacting you about order NC305352. No one has solved it. I want a manager.
+TK-1103,2026-09-14 18:33,Email,New,Delivery Delay,High,Neutral,Logistics,Logistics,False,0,6,1.4,11.98,False,4.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1104,2026-09-15 04:21,Email,Regular,Payment Failure,High,Neutral,Billing,Logistics,True,2,6,20.29,31.65,True,,Payment keeps failing at checkout with my UPI app.
+TK-1105,2026-09-15 14:12,Social Media,Regular,Product Inquiry,Low,Neutral,General Support,General Support,False,0,24,21.86,60.51,False,4.0,Does the blender come with a warranty and what does it cover?
+TK-1106,2026-09-15 19:27,Chat,Regular,Complaint / Escalation,Medium,Negative,Senior Support,Senior Support,False,0,12,8.79,73.42,False,4.0,Nobody has replied to me for three days. Escalate this immediately.
+TK-1107,2026-09-16 02:39,Chat,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,4.39,40.21,False,4.0,My order NC962499 was due 5 days ago and tracking has not updated. Where is it?
+TK-1108,2026-09-16 08:55,Web Form,Regular,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,12.51,55.85,True,4.0,How do I return a product that does not fit? The return link is not working.
+TK-1109,2026-09-16 10:33,Chat,Regular,Refund / Return,Low,Neutral,Billing,Billing,False,0,24,28.81,82.92,True,4.0,Refund was issued for less than the amount I paid on order NC493843.
+TK-1110,2026-09-16 11:55,Email,Regular,Delivery Delay,High,Neutral,Logistics,Logistics,False,0,6,2.24,15.82,False,4.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1111,2026-09-16 12:30,Chat,New,Refund / Return,High,Negative,Billing,Logistics,True,2,6,9.32,37.35,True,3.0,Refund was issued for less than the amount I paid on order NC971577.
+TK-1112,2026-09-16 12:49,Web Form,New,Delivery Delay,Low,Negative,Logistics,Logistics,False,0,24,14.87,83.81,False,4.0,My order NC475342 was due 5 days ago and tracking has not updated. Where is it?
+TK-1113,2026-09-16 16:32,Email,Premium,Delivery Delay,High,Neutral,Logistics,Logistics,False,0,6,2.96,25.89,False,4.0,Courier marked order NC131411 as delivered but I never received anything.
+TK-1114,2026-09-16 17:06,Chat,Regular,Payment Failure,Medium,Neutral,Billing,Billing,False,0,12,5.13,64.04,False,5.0,Money was deducted from my account but order NC874853 shows payment failed.
+TK-1115,2026-09-16 18:01,Web Form,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,4.23,85.46,False,5.0,Courier marked order NC191887 as delivered but I never received anything.
+TK-1116,2026-09-17 12:08,Chat,Regular,Refund / Return,Medium,Negative,Billing,Senior Support,True,2,12,12.64,51.4,True,3.0,Refund was issued for less than the amount I paid on order NC157644.
+TK-1117,2026-09-17 14:37,Email,New,Product Inquiry,Medium,Neutral,General Support,Tech Support,True,2,12,8.32,69.1,False,4.0,Can you tell me if this item is suitable for sensitive skin?
+TK-1118,2026-09-17 16:18,Email,New,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,2.56,25.37,False,5.0,How do I return a product that does not fit? The return link is not working.
+TK-1119,2026-09-17 19:42,Web Form,Regular,Complaint / Escalation,Urgent,Negative,Senior Support,Senior Support,False,0,2,1.04,6.26,False,4.0,This is the third time I am contacting you about order NC897102. No one has solved it. I want a manager.
+TK-1120,2026-09-17 20:39,Web Form,Regular,Damaged / Wrong Item,Medium,Negative,Logistics,Logistics,False,0,12,6.31,22.97,False,4.0,I received a different colour than what I ordered.
+TK-1121,2026-09-18 08:08,Email,Regular,Payment Failure,Urgent,Neutral,Billing,Tech Support,True,2,2,6.18,12.06,True,,Payment keeps failing at checkout with my UPI app.
+TK-1122,2026-09-18 10:11,Email,Regular,Product Inquiry,Low,Positive,General Support,General Support,False,0,24,28.67,90.36,True,5.0,Does the blender come with a warranty and what does it cover?
+TK-1123,2026-09-18 10:28,Email,New,Refund / Return,Urgent,Negative,Billing,Tech Support,True,1,2,4.82,14.25,True,,How do I return a product that does not fit? The return link is not working.
+TK-1124,2026-09-18 11:28,Chat,Premium,Delivery Delay,High,Neutral,Logistics,Senior Support,True,1,6,4.71,23.81,False,2.0,Courier marked order NC799780 as delivered but I never received anything.
+TK-1125,2026-09-18 12:48,Web Form,Premium,Payment Failure,Urgent,Negative,Billing,General Support,True,1,2,4.61,9.56,True,2.0,I was charged twice for order NC532428. Please reverse one payment.
+TK-1126,2026-09-18 14:32,Web Form,Regular,Complaint / Escalation,Urgent,Negative,Senior Support,Senior Support,False,0,2,2.47,10.02,True,3.0,Nobody has replied to me for three days. Escalate this immediately.
+TK-1127,2026-09-18 14:56,Web Form,New,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,6.85,18.55,False,,I returned order NC712921 two weeks ago and have not received my refund.
+TK-1128,2026-09-18 15:23,Email,Premium,Product Inquiry,Low,Positive,General Support,General Support,False,0,24,21.0,50.59,False,,Does the blender come with a warranty and what does it cover?
+TK-1129,2026-09-18 17:05,Email,Regular,Delivery Delay,Low,Negative,Logistics,Logistics,False,0,24,14.95,60.03,False,3.0,Courier marked order NC691410 as delivered but I never received anything.
+TK-1130,2026-09-18 17:49,Email,New,Product Inquiry,Medium,Positive,General Support,General Support,False,0,12,3.98,31.1,False,,Is this product available in size M and when will it restock?
+TK-1131,2026-09-19 01:41,Web Form,Premium,Refund / Return,Medium,Negative,Billing,General Support,True,2,12,8.56,35.37,False,3.0,I returned order NC642749 two weeks ago and have not received my refund.
+TK-1132,2026-09-19 07:02,Web Form,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,5.19,78.71,False,,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1133,2026-09-19 07:10,Chat,Regular,Product Inquiry,Medium,Neutral,General Support,Tech Support,True,1,12,16.41,52.52,True,,Can you tell me if this item is suitable for sensitive skin?
+TK-1134,2026-09-19 10:25,Web Form,Regular,Account / Login,Low,Positive,Tech Support,Tech Support,False,0,24,11.08,81.84,False,5.0,"I cannot log in, the OTP never arrives."
+TK-1135,2026-09-19 10:27,Social Media,Regular,Refund / Return,Medium,Negative,Billing,Billing,False,0,12,12.33,66.75,True,3.0,Refund was issued for less than the amount I paid on order NC826494.
+TK-1136,2026-09-19 12:29,Chat,Regular,Payment Failure,High,Negative,Billing,Billing,False,0,6,3.45,23.13,False,3.0,I was charged twice for order NC718274. Please reverse one payment.
+TK-1137,2026-09-19 13:55,Web Form,Regular,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,3.17,11.82,False,4.0,How do I return a product that does not fit? The return link is not working.
+TK-1138,2026-09-19 14:51,Email,Premium,Payment Failure,Medium,Neutral,Billing,Billing,False,0,12,5.83,38.82,False,,I was charged twice for order NC777999. Please reverse one payment.
+TK-1139,2026-09-20 07:53,Chat,Regular,Product Inquiry,Medium,Neutral,General Support,General Support,False,0,12,10.85,45.68,False,,Is this product available in size M and when will it restock?
+TK-1140,2026-09-20 12:17,Email,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,5.43,32.21,False,5.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1141,2026-09-20 16:40,Web Form,Regular,Refund / Return,Low,Neutral,Billing,Billing,False,0,24,5.54,37.2,False,,How do I return a product that does not fit? The return link is not working.
+TK-1142,2026-09-21 00:37,Web Form,Regular,Damaged / Wrong Item,Medium,Negative,Logistics,Logistics,False,0,12,12.12,35.99,True,4.0,The item in order NC829624 arrived broken. Photos attached.
+TK-1143,2026-09-21 07:34,Web Form,Regular,Payment Failure,High,Neutral,Billing,Billing,False,0,6,4.82,26.68,False,5.0,Payment keeps failing at checkout with my UPI app.
+TK-1144,2026-09-21 13:19,Email,Premium,Refund / Return,High,Negative,Billing,Billing,False,0,6,4.41,24.22,False,3.0,How do I return a product that does not fit? The return link is not working.
+TK-1145,2026-09-21 13:20,Chat,Regular,Product Inquiry,Medium,Neutral,General Support,Senior Support,True,1,12,18.24,44.0,True,3.0,Does the blender come with a warranty and what does it cover?
+TK-1146,2026-09-21 14:00,Web Form,New,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,6.43,37.3,False,5.0,I returned order NC947907 two weeks ago and have not received my refund.
+TK-1147,2026-09-21 15:50,Web Form,New,Account / Login,Low,Negative,Tech Support,Tech Support,False,0,24,13.17,98.76,False,3.0,My account was locked after several password attempts.
+TK-1148,2026-09-22 05:14,Social Media,New,Complaint / Escalation,High,Negative,Senior Support,General Support,True,2,6,12.36,33.31,True,3.0,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1149,2026-09-22 05:17,Email,Regular,Payment Failure,Low,Negative,Billing,General Support,True,2,24,13.19,58.65,False,3.0,I was charged twice for order NC272564. Please reverse one payment.
+TK-1150,2026-09-22 08:39,Email,Premium,Product Inquiry,Low,Negative,General Support,General Support,False,0,24,45.58,66.3,True,3.0,Does the blender come with a warranty and what does it cover?
+TK-1151,2026-09-22 09:14,Email,Regular,Damaged / Wrong Item,High,Neutral,Logistics,Billing,True,2,6,6.37,18.54,True,3.0,Parcel was open and a product is missing from order NC133301.
+TK-1152,2026-09-22 10:56,Email,Premium,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,21.11,37.24,True,,Courier marked order NC530172 as delivered but I never received anything.
+TK-1153,2026-09-22 11:41,Chat,Premium,Account / Login,High,Negative,Tech Support,Tech Support,False,0,6,2.86,11.24,False,3.0,"I cannot log in, the OTP never arrives."
+TK-1154,2026-09-22 14:49,Chat,New,Refund / Return,Medium,Neutral,Billing,Logistics,True,2,12,9.64,36.35,False,,How do I return a product that does not fit? The return link is not working.
+TK-1155,2026-09-22 15:34,Email,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,1.93,36.58,False,5.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1156,2026-09-22 16:13,Web Form,Regular,Payment Failure,High,Neutral,Billing,Billing,False,0,6,1.41,27.29,False,,I was charged twice for order NC985353. Please reverse one payment.
+TK-1157,2026-09-23 00:52,Email,New,Refund / Return,High,Negative,Billing,Billing,False,0,6,2.21,10.47,False,,How do I return a product that does not fit? The return link is not working.
+TK-1158,2026-09-23 07:11,Social Media,New,Delivery Delay,Low,Negative,Logistics,Billing,True,2,24,51.35,76.03,True,,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1159,2026-09-23 08:43,Web Form,Regular,Account / Login,High,Positive,Tech Support,Logistics,True,2,6,6.87,26.82,True,3.0,My account was locked after several password attempts.
+TK-1160,2026-09-23 11:57,Social Media,Regular,Refund / Return,Medium,Negative,Billing,Tech Support,True,2,12,15.38,43.16,True,3.0,I returned order NC783574 two weeks ago and have not received my refund.
+TK-1161,2026-09-23 13:46,Social Media,Regular,Complaint / Escalation,Urgent,Negative,Senior Support,Tech Support,True,2,2,4.11,13.69,True,,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1162,2026-09-23 14:00,Chat,Regular,Product Inquiry,Low,Neutral,General Support,General Support,False,0,24,10.84,139.11,False,4.0,Does the blender come with a warranty and what does it cover?
+TK-1163,2026-09-23 16:27,Email,Regular,Product Inquiry,Low,Neutral,General Support,General Support,False,0,24,9.77,47.11,False,4.0,Is this product available in size M and when will it restock?
+TK-1164,2026-09-23 18:00,Email,New,Complaint / Escalation,Medium,Negative,Senior Support,Tech Support,True,2,12,10.39,39.97,False,,This is the third time I am contacting you about order NC248935. No one has solved it. I want a manager.
+TK-1165,2026-09-23 18:24,Web Form,Premium,Complaint / Escalation,Urgent,Negative,Senior Support,Senior Support,False,0,2,1.55,14.69,False,4.0,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1166,2026-09-23 18:44,Web Form,New,Product Inquiry,Low,Positive,General Support,General Support,False,0,24,26.12,58.35,True,,Is this product available in size M and when will it restock?
+TK-1167,2026-09-24 08:27,Web Form,Regular,Complaint / Escalation,High,Negative,Senior Support,Logistics,True,2,6,7.91,19.37,True,3.0,Nobody has replied to me for three days. Escalate this immediately.
+TK-1168,2026-09-24 08:39,Email,Regular,Account / Login,High,Positive,Tech Support,Tech Support,False,0,6,4.85,30.02,False,5.0,Please update the mobile number on my account.
+TK-1169,2026-09-24 11:30,Email,New,Refund / Return,Medium,Negative,Billing,Billing,False,0,12,7.0,24.32,False,3.0,I returned order NC320998 two weeks ago and have not received my refund.
+TK-1170,2026-09-24 14:45,Email,New,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,9.97,48.38,False,5.0,My order NC863000 was due 5 days ago and tracking has not updated. Where is it?
+TK-1171,2026-09-24 17:02,Email,Premium,Account / Login,Urgent,Neutral,Tech Support,Tech Support,False,0,2,2.41,8.54,True,,Please update the mobile number on my account.
+TK-1172,2026-09-24 17:34,Chat,Regular,Payment Failure,Urgent,Neutral,Billing,Senior Support,True,1,2,3.32,8.41,True,,Payment keeps failing at checkout with my UPI app.
+TK-1173,2026-09-24 17:38,Web Form,New,Delivery Delay,High,Negative,Logistics,Billing,True,1,6,6.93,17.91,True,,Courier marked order NC324083 as delivered but I never received anything.
+TK-1174,2026-09-24 22:52,Social Media,New,Damaged / Wrong Item,Low,Negative,Logistics,General Support,True,2,24,17.08,88.13,False,4.0,I received a different colour than what I ordered.
+TK-1175,2026-09-25 01:39,Social Media,Regular,Delivery Delay,Medium,Negative,Logistics,Senior Support,True,1,12,11.01,37.83,False,,My order NC732332 was due 5 days ago and tracking has not updated. Where is it?
+TK-1176,2026-09-25 03:52,Social Media,Premium,Damaged / Wrong Item,Medium,Negative,Logistics,Logistics,False,0,12,6.26,39.68,False,4.0,I received a different colour than what I ordered.
+TK-1177,2026-09-25 07:31,Chat,Regular,Product Inquiry,Low,Positive,General Support,Senior Support,True,2,24,10.65,44.27,False,,Does the blender come with a warranty and what does it cover?
+TK-1178,2026-09-25 09:48,Email,Premium,Payment Failure,High,Negative,Billing,Billing,False,0,6,3.28,36.54,False,,Payment keeps failing at checkout with my UPI app.
+TK-1179,2026-09-25 16:26,Email,New,Delivery Delay,Low,Negative,Logistics,Logistics,False,0,24,17.06,48.65,False,,My order NC795254 was due 5 days ago and tracking has not updated. Where is it?
+TK-1180,2026-09-25 18:27,Social Media,Regular,Product Inquiry,Low,Positive,General Support,General Support,False,0,24,22.18,85.97,False,,Can you tell me if this item is suitable for sensitive skin?
+TK-1181,2026-09-25 18:47,Chat,Regular,Account / Login,High,Negative,Tech Support,Tech Support,False,0,6,3.97,32.03,False,4.0,"I cannot log in, the OTP never arrives."
+TK-1182,2026-09-25 20:15,Email,New,Delivery Delay,Medium,Neutral,Logistics,General Support,True,2,12,7.22,55.63,False,,My order NC530006 was due 5 days ago and tracking has not updated. Where is it?
+TK-1183,2026-09-25 22:56,Web Form,Regular,Complaint / Escalation,High,Negative,Senior Support,Senior Support,False,0,6,3.81,94.59,False,,This is the third time I am contacting you about order NC249865. No one has solved it. I want a manager.
+TK-1184,2026-09-26 06:26,Web Form,Regular,Delivery Delay,Low,Negative,Logistics,Tech Support,True,2,24,30.0,67.53,True,,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1185,2026-09-26 08:21,Social Media,Premium,Account / Login,Low,Neutral,Tech Support,Billing,True,2,24,27.4,56.08,True,4.0,"I cannot log in, the OTP never arrives."
+TK-1186,2026-09-26 09:20,Chat,Regular,Account / Login,Medium,Negative,Tech Support,Tech Support,False,0,12,13.99,40.7,True,4.0,My account was locked after several password attempts.
+TK-1187,2026-09-26 09:23,Email,Regular,Complaint / Escalation,High,Negative,Senior Support,General Support,True,2,6,7.88,39.15,True,4.0,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1188,2026-09-26 10:43,Web Form,Regular,Product Inquiry,Low,Neutral,General Support,General Support,False,0,24,20.23,78.54,False,5.0,Can you tell me if this item is suitable for sensitive skin?
+TK-1189,2026-09-26 15:42,Email,New,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,6.94,31.01,False,4.0,How do I return a product that does not fit? The return link is not working.
+TK-1190,2026-09-26 17:52,Social Media,Regular,Payment Failure,High,Neutral,Billing,Billing,False,0,6,6.04,27.0,True,4.0,Money was deducted from my account but order NC399536 shows payment failed.
+TK-1191,2026-09-27 08:38,Web Form,Regular,Delivery Delay,High,Neutral,Logistics,Logistics,False,0,6,3.48,29.3,False,4.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1192,2026-09-27 08:48,Web Form,New,Payment Failure,Urgent,Negative,Billing,Billing,False,0,2,1.76,15.95,False,4.0,Payment keeps failing at checkout with my UPI app.
+TK-1193,2026-09-27 09:32,Chat,New,Complaint / Escalation,High,Negative,Senior Support,Senior Support,False,0,6,2.94,17.86,False,4.0,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1194,2026-09-27 09:40,Email,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,9.8,26.9,False,,My order NC990081 was due 5 days ago and tracking has not updated. Where is it?
+TK-1195,2026-09-27 11:37,Email,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,4.77,29.73,False,,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1196,2026-09-27 12:35,Web Form,New,Product Inquiry,Low,Neutral,General Support,Tech Support,True,1,24,15.6,57.08,False,,Is this product available in size M and when will it restock?
+TK-1197,2026-09-27 15:43,Chat,New,Product Inquiry,Medium,Positive,General Support,General Support,False,0,12,5.14,35.8,False,5.0,Is this product available in size M and when will it restock?
+TK-1198,2026-09-28 06:16,Chat,Regular,Delivery Delay,High,Negative,Logistics,Logistics,False,0,6,4.0,52.47,False,3.0,Courier marked order NC229914 as delivered but I never received anything.
+TK-1199,2026-09-28 10:35,Web Form,Regular,Refund / Return,High,Neutral,Billing,Billing,False,0,6,8.37,30.51,True,,Refund was issued for less than the amount I paid on order NC158568.
+TK-1200,2026-09-28 11:35,Chat,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,12.3,24.84,True,4.0,Courier marked order NC900560 as delivered but I never received anything.
+TK-1201,2026-09-28 13:40,Chat,New,Product Inquiry,Medium,Neutral,General Support,General Support,False,0,12,7.18,24.88,False,4.0,Does the blender come with a warranty and what does it cover?
+TK-1202,2026-09-28 13:50,Email,Premium,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,19.19,85.94,True,4.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1203,2026-09-28 21:42,Chat,Regular,Payment Failure,High,Negative,Billing,Billing,False,0,6,4.44,29.3,False,,Payment keeps failing at checkout with my UPI app.
+TK-1204,2026-09-29 08:01,Chat,Regular,Delivery Delay,High,Neutral,Logistics,Logistics,False,0,6,1.1,19.94,False,5.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1205,2026-09-29 09:16,Web Form,New,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,8.93,44.69,False,4.0,Courier marked order NC485738 as delivered but I never received anything.
+TK-1206,2026-09-29 09:17,Email,Regular,Payment Failure,Medium,Neutral,Billing,Logistics,True,2,12,10.4,54.66,False,3.0,Money was deducted from my account but order NC144035 shows payment failed.
+TK-1207,2026-09-29 12:50,Web Form,Regular,Account / Login,High,Neutral,Tech Support,Tech Support,False,0,6,6.05,38.87,True,5.0,My account was locked after several password attempts.
+TK-1208,2026-09-29 15:16,Email,Regular,Delivery Delay,High,Negative,Logistics,Billing,True,1,6,8.57,25.93,True,3.0,My order NC821229 was due 5 days ago and tracking has not updated. Where is it?
+TK-1209,2026-09-29 19:47,Email,Regular,Damaged / Wrong Item,Medium,Neutral,Logistics,Logistics,False,0,12,9.47,24.77,False,4.0,The item in order NC746813 arrived broken. Photos attached.
+TK-1210,2026-09-29 23:26,Email,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,4.0,63.47,False,4.0,My order NC206210 was due 5 days ago and tracking has not updated. Where is it?
+TK-1211,2026-09-30 05:23,Chat,Premium,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,7.5,45.09,False,4.0,Refund was issued for less than the amount I paid on order NC316296.
+TK-1212,2026-09-30 06:59,Web Form,Regular,Account / Login,Medium,Positive,Tech Support,Tech Support,False,0,12,2.3,44.14,False,5.0,Please update the mobile number on my account.
+TK-1213,2026-09-30 08:17,Web Form,New,Damaged / Wrong Item,Low,Neutral,Logistics,Logistics,False,0,24,6.29,43.4,False,4.0,The item in order NC252981 arrived broken. Photos attached.
+TK-1214,2026-09-30 08:37,Chat,New,Account / Login,Medium,Neutral,Tech Support,Tech Support,False,0,12,3.96,50.49,False,4.0,"I cannot log in, the OTP never arrives."
+TK-1215,2026-09-30 09:04,Chat,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,10.52,43.12,False,4.0,My order NC353583 was due 5 days ago and tracking has not updated. Where is it?
+TK-1216,2026-09-30 12:38,Email,New,Complaint / Escalation,High,Negative,Senior Support,Senior Support,False,0,6,3.76,26.75,False,4.0,Nobody has replied to me for three days. Escalate this immediately.
+TK-1217,2026-09-30 16:39,Email,New,Refund / Return,Medium,Negative,Billing,Billing,False,0,12,8.16,53.51,False,4.0,How do I return a product that does not fit? The return link is not working.
+TK-1218,2026-09-30 22:38,Email,Regular,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,8.49,37.36,False,4.0,I returned order NC518953 two weeks ago and have not received my refund.
+TK-1219,2026-10-01 09:05,Email,New,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,11.27,39.06,False,4.0,Refund was issued for less than the amount I paid on order NC626101.
+TK-1220,2026-10-01 09:28,Web Form,Regular,Payment Failure,High,Negative,Billing,Billing,False,0,6,11.35,45.35,True,2.0,I was charged twice for order NC630803. Please reverse one payment.
+TK-1221,2026-10-01 12:32,Web Form,New,Account / Login,High,Neutral,Tech Support,Tech Support,False,0,6,8.38,14.8,True,4.0,"I cannot log in, the OTP never arrives."
+TK-1222,2026-10-01 12:34,Email,Premium,Product Inquiry,High,Neutral,General Support,General Support,False,0,6,2.35,16.08,False,,Is this product available in size M and when will it restock?
+TK-1223,2026-10-01 18:16,Web Form,Regular,Damaged / Wrong Item,Medium,Neutral,Logistics,Tech Support,True,1,12,5.97,33.32,False,,Parcel was open and a product is missing from order NC810778.
+TK-1224,2026-10-01 19:40,Web Form,Regular,Payment Failure,High,Negative,Billing,Billing,False,0,6,2.32,28.57,False,3.0,Payment keeps failing at checkout with my UPI app.
+TK-1225,2026-10-01 20:33,Social Media,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,7.47,28.46,False,,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1226,2026-10-01 22:38,Social Media,Regular,Delivery Delay,High,Negative,Logistics,Logistics,False,0,6,6.1,14.12,True,4.0,Courier marked order NC273204 as delivered but I never received anything.
+TK-1227,2026-10-01 22:56,Email,Premium,Delivery Delay,Urgent,Negative,Logistics,Logistics,False,0,2,0.85,8.35,False,5.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1228,2026-10-02 10:56,Web Form,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,12.03,38.89,True,5.0,Courier marked order NC508865 as delivered but I never received anything.
+TK-1229,2026-10-02 11:23,Email,Regular,Complaint / Escalation,Urgent,Negative,Senior Support,Tech Support,True,2,2,10.12,13.9,True,,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1230,2026-10-02 11:38,Chat,Premium,Damaged / Wrong Item,High,Neutral,Logistics,Tech Support,True,2,6,11.3,37.7,True,,Parcel was open and a product is missing from order NC245703.
+TK-1231,2026-10-02 14:55,Email,Regular,Delivery Delay,High,Negative,Logistics,Logistics,False,0,6,2.01,12.21,False,,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1232,2026-10-02 15:13,Social Media,Regular,Payment Failure,Urgent,Neutral,Billing,Billing,False,0,2,0.79,12.46,False,4.0,Money was deducted from my account but order NC372946 shows payment failed.
+TK-1233,2026-10-02 18:01,Social Media,Regular,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,6.85,32.81,False,5.0,Refund was issued for less than the amount I paid on order NC992896.
+TK-1234,2026-10-03 03:59,Email,New,Complaint / Escalation,High,Neutral,Senior Support,Billing,True,1,6,5.2,17.75,False,,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1235,2026-10-03 05:19,Email,New,Damaged / Wrong Item,Medium,Neutral,Logistics,Logistics,False,0,12,19.78,44.98,True,,I received a different colour than what I ordered.
+TK-1236,2026-10-03 13:17,Email,New,Account / Login,Medium,Neutral,Tech Support,Tech Support,False,0,12,8.92,38.39,False,4.0,My account was locked after several password attempts.
+TK-1237,2026-10-03 13:29,Social Media,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,5.85,62.52,False,,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1238,2026-10-03 17:23,Web Form,New,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,3.04,49.01,False,,I returned order NC432240 two weeks ago and have not received my refund.
+TK-1239,2026-10-03 17:38,Web Form,Regular,Complaint / Escalation,Urgent,Negative,Senior Support,Senior Support,False,0,2,2.0,9.22,False,4.0,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1240,2026-10-03 18:58,Social Media,Regular,Product Inquiry,Low,Neutral,General Support,General Support,False,0,24,12.26,52.01,False,4.0,Is this product available in size M and when will it restock?
+TK-1241,2026-10-04 09:03,Email,Regular,Product Inquiry,Low,Neutral,General Support,General Support,False,0,24,13.38,28.3,False,5.0,Does the blender come with a warranty and what does it cover?
+TK-1242,2026-10-04 09:13,Web Form,Regular,Account / Login,High,Neutral,Tech Support,Tech Support,False,0,6,11.39,37.84,True,,"I cannot log in, the OTP never arrives."
+TK-1243,2026-10-04 10:30,Email,Regular,Delivery Delay,High,Neutral,Logistics,Logistics,False,0,6,11.01,33.53,True,4.0,My order NC368053 was due 5 days ago and tracking has not updated. Where is it?
+TK-1244,2026-10-04 13:53,Email,Regular,Complaint / Escalation,Urgent,Negative,Senior Support,Senior Support,False,0,2,1.16,17.48,False,4.0,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1245,2026-10-04 15:00,Social Media,Regular,Damaged / Wrong Item,High,Neutral,Logistics,Logistics,False,0,6,2.57,10.9,False,5.0,Parcel was open and a product is missing from order NC581807.
+TK-1246,2026-10-04 16:00,Web Form,Regular,Complaint / Escalation,Low,Negative,Senior Support,Logistics,True,1,24,14.84,61.7,False,,This is the third time I am contacting you about order NC619036. No one has solved it. I want a manager.
+TK-1247,2026-10-04 16:24,Email,Regular,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,2.5,23.65,False,5.0,I returned order NC367938 two weeks ago and have not received my refund.
+TK-1248,2026-10-04 19:49,Email,Regular,Damaged / Wrong Item,Medium,Neutral,Logistics,General Support,True,1,12,6.27,20.93,False,4.0,I received a different colour than what I ordered.
+TK-1249,2026-10-05 07:27,Email,Regular,Account / Login,Medium,Neutral,Tech Support,Tech Support,False,0,12,7.36,37.44,False,4.0,My account was locked after several password attempts.
+TK-1250,2026-10-05 13:12,Web Form,Premium,Account / Login,High,Negative,Tech Support,Tech Support,False,0,6,3.23,10.55,False,4.0,Please update the mobile number on my account.
+TK-1251,2026-10-05 13:44,Web Form,Regular,Refund / Return,Medium,Negative,Billing,Billing,False,0,12,7.26,61.81,False,3.0,I returned order NC967825 two weeks ago and have not received my refund.
+TK-1252,2026-10-05 13:57,Email,New,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,4.38,14.3,False,4.0,How do I return a product that does not fit? The return link is not working.
+TK-1253,2026-10-05 15:33,Email,Regular,Payment Failure,High,Negative,Billing,Billing,False,0,6,1.71,27.74,False,,Payment keeps failing at checkout with my UPI app.
+TK-1254,2026-10-05 16:09,Email,New,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,9.19,44.06,False,4.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1255,2026-10-05 18:24,Email,Regular,Delivery Delay,Low,Negative,Logistics,Logistics,False,0,24,43.72,69.07,True,,Courier marked order NC822278 as delivered but I never received anything.
+TK-1256,2026-10-06 04:21,Email,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,16.61,48.69,True,,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1257,2026-10-06 04:46,Email,Regular,Damaged / Wrong Item,Medium,Neutral,Logistics,Senior Support,True,2,12,11.75,54.69,False,3.0,I received a different colour than what I ordered.
+TK-1258,2026-10-06 09:48,Email,Regular,Refund / Return,Urgent,Neutral,Billing,Billing,False,0,2,1.17,10.07,False,4.0,I returned order NC631149 two weeks ago and have not received my refund.
+TK-1259,2026-10-06 11:00,Web Form,Regular,Delivery Delay,High,Negative,Logistics,Logistics,False,0,6,2.79,20.85,False,,My order NC844859 was due 5 days ago and tracking has not updated. Where is it?
+TK-1260,2026-10-06 13:13,Web Form,New,Refund / Return,Low,Neutral,Billing,Senior Support,True,2,24,12.91,62.15,False,,I returned order NC518829 two weeks ago and have not received my refund.
+TK-1261,2026-10-06 13:50,Email,Regular,Refund / Return,Urgent,Negative,Billing,Tech Support,True,2,2,7.39,15.29,True,1.0,How do I return a product that does not fit? The return link is not working.
+TK-1262,2026-10-06 14:42,Chat,New,Delivery Delay,Urgent,Negative,Logistics,Logistics,False,0,2,3.13,12.0,True,5.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1263,2026-10-06 17:31,Email,Regular,Refund / Return,Medium,Negative,Billing,Billing,False,0,12,14.62,35.45,True,,Refund was issued for less than the amount I paid on order NC307890.
+TK-1264,2026-10-06 17:47,Web Form,Regular,Delivery Delay,Low,Negative,Logistics,Logistics,False,0,24,5.08,26.9,False,4.0,My order NC692547 was due 5 days ago and tracking has not updated. Where is it?
+TK-1265,2026-10-06 19:26,Chat,Premium,Complaint / Escalation,High,Negative,Senior Support,Senior Support,False,0,6,3.04,35.53,False,,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1266,2026-10-07 10:43,Chat,New,Complaint / Escalation,Urgent,Negative,Senior Support,Senior Support,False,0,2,1.99,14.48,False,3.0,This is the third time I am contacting you about order NC722298. No one has solved it. I want a manager.
+TK-1267,2026-10-07 11:53,Email,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,8.22,24.38,False,4.0,Courier marked order NC612218 as delivered but I never received anything.
+TK-1268,2026-10-07 12:35,Email,New,Damaged / Wrong Item,Medium,Neutral,Logistics,Logistics,False,0,12,3.23,41.4,False,4.0,Parcel was open and a product is missing from order NC863929.
+TK-1269,2026-10-07 16:21,Web Form,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,5.61,32.41,False,,My order NC672283 was due 5 days ago and tracking has not updated. Where is it?
+TK-1270,2026-10-07 18:18,Email,Premium,Complaint / Escalation,High,Neutral,Senior Support,Senior Support,False,0,6,2.7,15.3,False,4.0,This is the third time I am contacting you about order NC889356. No one has solved it. I want a manager.
+TK-1271,2026-10-07 19:50,Social Media,Regular,Payment Failure,Urgent,Negative,Billing,Billing,False,0,2,2.78,15.61,True,3.0,I was charged twice for order NC656895. Please reverse one payment.
+TK-1272,2026-10-08 18:26,Social Media,Regular,Delivery Delay,Low,Negative,Logistics,Logistics,False,0,24,49.81,87.83,True,3.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1273,2026-10-08 19:20,Email,Regular,Complaint / Escalation,Urgent,Negative,Senior Support,General Support,True,2,2,4.58,12.01,True,,Nobody has replied to me for three days. Escalate this immediately.
+TK-1274,2026-10-09 03:30,Email,Premium,Complaint / Escalation,Medium,Negative,Senior Support,Senior Support,False,0,12,19.36,56.07,True,2.0,Nobody has replied to me for three days. Escalate this immediately.
+TK-1275,2026-10-09 09:04,Social Media,Regular,Damaged / Wrong Item,Medium,Negative,Logistics,Tech Support,True,2,12,25.61,53.5,True,,The item in order NC985002 arrived broken. Photos attached.
+TK-1276,2026-10-09 09:47,Web Form,Regular,Refund / Return,High,Negative,Billing,Billing,False,0,6,5.49,35.0,False,,Refund was issued for less than the amount I paid on order NC376419.
+TK-1277,2026-10-09 11:35,Email,Regular,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,9.94,38.29,False,4.0,I returned order NC942667 two weeks ago and have not received my refund.
+TK-1278,2026-10-09 13:03,Social Media,New,Product Inquiry,Low,Neutral,General Support,Tech Support,True,2,24,13.57,83.23,False,,Can you tell me if this item is suitable for sensitive skin?
+TK-1279,2026-10-09 15:39,Chat,New,Complaint / Escalation,High,Negative,Senior Support,Senior Support,False,0,6,3.64,22.25,False,4.0,This is the third time I am contacting you about order NC151743. No one has solved it. I want a manager.
+TK-1280,2026-10-09 19:36,Chat,Regular,Payment Failure,Medium,Negative,Billing,Billing,False,0,12,7.64,60.22,False,4.0,I was charged twice for order NC751932. Please reverse one payment.
+TK-1281,2026-10-09 22:54,Chat,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,5.81,91.38,False,4.0,Courier marked order NC658169 as delivered but I never received anything.
+TK-1282,2026-10-10 12:24,Web Form,Regular,Delivery Delay,High,Neutral,Logistics,Logistics,False,0,6,2.91,17.54,False,5.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1283,2026-10-11 07:17,Chat,Regular,Delivery Delay,High,Negative,Logistics,Logistics,False,0,6,2.4,10.47,False,4.0,My order NC714924 was due 5 days ago and tracking has not updated. Where is it?
+TK-1284,2026-10-11 08:32,Email,New,Account / Login,Medium,Negative,Tech Support,Tech Support,False,0,12,7.6,26.5,False,4.0,My account was locked after several password attempts.
+TK-1285,2026-10-11 10:09,Email,Regular,Delivery Delay,Low,Neutral,Logistics,Logistics,False,0,24,30.91,61.29,True,,My order NC472125 was due 5 days ago and tracking has not updated. Where is it?
+TK-1286,2026-10-11 13:52,Chat,Regular,Payment Failure,High,Negative,Billing,Logistics,True,2,6,10.1,19.12,True,,Payment keeps failing at checkout with my UPI app.
+TK-1287,2026-10-11 19:58,Web Form,New,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,2.29,61.46,False,5.0,My order NC313001 was due 5 days ago and tracking has not updated. Where is it?
+TK-1288,2026-10-12 10:18,Email,Premium,Delivery Delay,Low,Negative,Logistics,Senior Support,True,2,24,38.15,68.34,True,3.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1289,2026-10-12 13:08,Email,New,Complaint / Escalation,High,Negative,Senior Support,Senior Support,False,0,6,0.86,44.26,False,4.0,Nobody has replied to me for three days. Escalate this immediately.
+TK-1290,2026-10-12 14:34,Web Form,Regular,Refund / Return,High,Neutral,Billing,Billing,False,0,6,5.07,20.05,False,,Refund was issued for less than the amount I paid on order NC686887.
+TK-1291,2026-10-12 14:51,Web Form,New,Account / Login,Medium,Positive,Tech Support,Tech Support,False,0,12,23.92,48.58,True,,"I cannot log in, the OTP never arrives."
+TK-1292,2026-10-13 08:23,Web Form,Regular,Delivery Delay,Medium,Neutral,Logistics,Tech Support,True,2,12,16.88,29.97,True,,Courier marked order NC415074 as delivered but I never received anything.
+TK-1293,2026-10-13 12:57,Web Form,Regular,Delivery Delay,High,Negative,Logistics,Logistics,False,0,6,2.97,26.89,False,,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1294,2026-10-14 08:39,Web Form,Premium,Complaint / Escalation,Urgent,Negative,Senior Support,Senior Support,False,0,2,0.98,20.94,False,3.0,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1295,2026-10-14 09:28,Chat,New,Damaged / Wrong Item,Medium,Negative,Logistics,Senior Support,True,2,12,10.91,43.81,False,3.0,Parcel was open and a product is missing from order NC960280.
+TK-1296,2026-10-14 09:35,Email,Regular,Damaged / Wrong Item,Medium,Negative,Logistics,Logistics,False,0,12,3.25,63.19,False,,Parcel was open and a product is missing from order NC595756.
+TK-1297,2026-10-14 10:56,Email,Regular,Account / Login,High,Neutral,Tech Support,Tech Support,False,0,6,5.26,19.95,False,,My account was locked after several password attempts.
+TK-1298,2026-10-14 12:01,Email,Regular,Payment Failure,High,Neutral,Billing,Billing,False,0,6,2.43,27.35,False,,Payment keeps failing at checkout with my UPI app.
+TK-1299,2026-10-14 13:31,Web Form,Regular,Product Inquiry,Medium,Neutral,General Support,General Support,False,0,12,8.36,44.63,False,4.0,Does the blender come with a warranty and what does it cover?
+TK-1300,2026-10-14 14:33,Email,New,Refund / Return,High,Neutral,Billing,Billing,False,0,6,0.95,18.71,False,,Refund was issued for less than the amount I paid on order NC523650.
+TK-1301,2026-10-14 16:31,Web Form,Regular,Product Inquiry,Low,Positive,General Support,General Support,False,0,24,12.65,43.7,False,5.0,Is this product available in size M and when will it restock?
+TK-1302,2026-10-15 06:56,Web Form,New,Refund / Return,High,Negative,Billing,Senior Support,True,2,6,6.67,34.16,True,3.0,How do I return a product that does not fit? The return link is not working.
+TK-1303,2026-10-15 07:10,Chat,New,Product Inquiry,Medium,Neutral,General Support,General Support,False,0,12,14.0,43.21,True,4.0,Does the blender come with a warranty and what does it cover?
+TK-1304,2026-10-15 09:21,Email,Premium,Payment Failure,High,Negative,Billing,Billing,False,0,6,12.83,23.3,True,3.0,I was charged twice for order NC223201. Please reverse one payment.
+TK-1305,2026-10-15 09:55,Chat,Regular,Account / Login,Medium,Neutral,Tech Support,Tech Support,False,0,12,10.4,93.31,False,,Please update the mobile number on my account.
+TK-1306,2026-10-15 11:33,Web Form,New,Damaged / Wrong Item,Medium,Negative,Logistics,Logistics,False,0,12,5.78,116.97,False,4.0,I received a different colour than what I ordered.
+TK-1307,2026-10-15 11:34,Web Form,Regular,Payment Failure,High,Negative,Billing,Billing,False,0,6,5.61,39.89,False,,Payment keeps failing at checkout with my UPI app.
+TK-1308,2026-10-15 12:26,Email,Regular,Delivery Delay,Medium,Neutral,Logistics,General Support,True,1,12,9.34,54.42,False,4.0,My order NC621668 was due 5 days ago and tracking has not updated. Where is it?
+TK-1309,2026-10-15 12:27,Email,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,3.88,31.29,False,4.0,Courier marked order NC371081 as delivered but I never received anything.
+TK-1310,2026-10-16 08:43,Web Form,Regular,Refund / Return,High,Negative,Billing,Tech Support,True,1,6,7.37,30.52,True,,Refund was issued for less than the amount I paid on order NC152222.
+TK-1311,2026-10-16 09:57,Web Form,Premium,Refund / Return,High,Negative,Billing,Billing,False,0,6,11.61,37.65,True,3.0,Refund was issued for less than the amount I paid on order NC356437.
+TK-1312,2026-10-16 10:06,Chat,Regular,Product Inquiry,Medium,Negative,General Support,General Support,False,0,12,8.08,27.68,False,4.0,Is this product available in size M and when will it restock?
+TK-1313,2026-10-16 11:03,Web Form,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,12.88,50.82,True,4.0,Courier marked order NC248643 as delivered but I never received anything.
+TK-1314,2026-10-16 14:11,Web Form,New,Refund / Return,Medium,Negative,Billing,Billing,False,0,12,5.94,29.4,False,4.0,I returned order NC920466 two weeks ago and have not received my refund.
+TK-1315,2026-10-16 15:21,Email,Regular,Account / Login,High,Neutral,Tech Support,Tech Support,False,0,6,2.19,19.61,False,,"I cannot log in, the OTP never arrives."
+TK-1316,2026-10-16 16:42,Email,Regular,Refund / Return,Low,Negative,Billing,Billing,False,0,24,14.24,44.21,False,4.0,I returned order NC746008 two weeks ago and have not received my refund.
+TK-1317,2026-10-16 22:57,Email,Regular,Delivery Delay,Medium,Negative,Logistics,Senior Support,True,2,12,11.38,39.15,False,3.0,My order NC623080 was due 5 days ago and tracking has not updated. Where is it?
+TK-1318,2026-10-17 11:56,Chat,New,Payment Failure,Medium,Negative,Billing,Billing,False,0,12,9.35,75.68,False,,I was charged twice for order NC820120. Please reverse one payment.
+TK-1319,2026-10-17 14:25,Chat,New,Account / Login,High,Negative,Tech Support,Tech Support,False,0,6,4.89,14.74,False,,My account was locked after several password attempts.
+TK-1320,2026-10-17 14:44,Web Form,New,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,4.71,35.43,False,3.0,My order NC598832 was due 5 days ago and tracking has not updated. Where is it?
+TK-1321,2026-10-17 15:11,Email,Premium,Account / Login,Low,Positive,Tech Support,Tech Support,False,0,24,11.49,74.5,False,5.0,"I cannot log in, the OTP never arrives."
+TK-1322,2026-10-17 17:55,Social Media,New,Account / Login,Medium,Neutral,Tech Support,Tech Support,False,0,12,11.7,43.1,False,4.0,Please update the mobile number on my account.
+TK-1323,2026-10-17 20:15,Chat,Regular,Damaged / Wrong Item,High,Negative,Logistics,Logistics,False,0,6,2.33,31.34,False,,The item in order NC937830 arrived broken. Photos attached.
+TK-1324,2026-10-18 07:27,Web Form,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,4.7,54.27,False,5.0,My order NC754218 was due 5 days ago and tracking has not updated. Where is it?
+TK-1325,2026-10-18 10:28,Email,Premium,Account / Login,High,Negative,Tech Support,Tech Support,False,0,6,1.26,22.69,False,4.0,My account was locked after several password attempts.
+TK-1326,2026-10-18 11:43,Email,Regular,Damaged / Wrong Item,Medium,Negative,Logistics,Logistics,False,0,12,11.1,28.77,False,4.0,The item in order NC686183 arrived broken. Photos attached.
+TK-1327,2026-10-18 12:13,Chat,Regular,Account / Login,Medium,Neutral,Tech Support,Tech Support,False,0,12,7.34,39.97,False,5.0,Please update the mobile number on my account.
+TK-1328,2026-10-18 16:06,Email,Premium,Account / Login,Low,Neutral,Tech Support,Tech Support,False,0,24,10.49,125.87,False,3.0,"I cannot log in, the OTP never arrives."
+TK-1329,2026-10-18 18:01,Social Media,New,Refund / Return,Medium,Negative,Billing,Logistics,True,2,12,13.35,37.88,True,3.0,Refund was issued for less than the amount I paid on order NC209117.
+TK-1330,2026-10-18 18:12,Chat,Regular,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,10.02,41.04,False,4.0,I returned order NC205157 two weeks ago and have not received my refund.
+TK-1331,2026-10-18 20:33,Email,Regular,Refund / Return,Medium,Neutral,Billing,Billing,False,0,12,5.5,23.57,False,5.0,How do I return a product that does not fit? The return link is not working.
+TK-1332,2026-10-19 06:59,Web Form,Regular,Damaged / Wrong Item,Medium,Negative,Logistics,General Support,True,2,12,16.51,48.12,True,,I received a different colour than what I ordered.
+TK-1333,2026-10-19 07:48,Chat,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,3.56,21.28,False,5.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1334,2026-10-19 11:30,Web Form,Premium,Complaint / Escalation,Low,Negative,Senior Support,Senior Support,False,0,24,41.33,79.23,True,,This is the third time I am contacting you about order NC588200. No one has solved it. I want a manager.
+TK-1335,2026-10-19 12:50,Email,Regular,Payment Failure,Urgent,Neutral,Billing,Billing,False,0,2,0.96,12.07,False,4.0,Payment keeps failing at checkout with my UPI app.
+TK-1336,2026-10-19 13:44,Web Form,Regular,Payment Failure,High,Negative,Billing,Billing,False,0,6,3.17,13.69,False,,Money was deducted from my account but order NC368698 shows payment failed.
+TK-1337,2026-10-20 03:32,Web Form,Premium,Delivery Delay,High,Neutral,Logistics,Logistics,False,0,6,2.2,15.92,False,3.0,My order NC642748 was due 5 days ago and tracking has not updated. Where is it?
+TK-1338,2026-10-20 05:19,Email,Premium,Damaged / Wrong Item,Medium,Negative,Logistics,Logistics,False,0,12,3.4,17.99,False,,Parcel was open and a product is missing from order NC171635.
+TK-1339,2026-10-20 07:53,Chat,Regular,Delivery Delay,High,Neutral,Logistics,Logistics,False,0,6,4.34,40.05,False,5.0,My order NC303639 was due 5 days ago and tracking has not updated. Where is it?
+TK-1340,2026-10-20 08:01,Email,New,Product Inquiry,Low,Neutral,General Support,General Support,False,0,24,11.0,50.87,False,4.0,Can you tell me if this item is suitable for sensitive skin?
+TK-1341,2026-10-20 09:52,Chat,Premium,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,10.38,44.24,False,3.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1342,2026-10-20 12:38,Web Form,New,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,5.06,36.05,False,4.0,My order NC164132 was due 5 days ago and tracking has not updated. Where is it?
+TK-1343,2026-10-20 14:12,Social Media,New,Damaged / Wrong Item,Medium,Negative,Logistics,General Support,True,2,12,12.87,91.0,True,,Parcel was open and a product is missing from order NC129619.
+TK-1344,2026-10-20 15:36,Web Form,New,Complaint / Escalation,Medium,Neutral,Senior Support,Senior Support,False,0,12,6.81,78.96,False,,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1345,2026-10-20 18:50,Email,Regular,Refund / Return,Low,Negative,Billing,Billing,False,0,24,11.09,32.29,False,4.0,How do I return a product that does not fit? The return link is not working.
+TK-1346,2026-10-21 05:51,Web Form,Regular,Damaged / Wrong Item,High,Negative,Logistics,Logistics,False,0,6,2.5,15.5,False,3.0,Parcel was open and a product is missing from order NC957446.
+TK-1347,2026-10-21 09:13,Web Form,Regular,Damaged / Wrong Item,High,Neutral,Logistics,Logistics,False,0,6,5.62,12.32,False,5.0,I received a different colour than what I ordered.
+TK-1348,2026-10-21 09:39,Web Form,Premium,Damaged / Wrong Item,High,Negative,Logistics,Logistics,False,0,6,5.87,40.21,False,3.0,I received a different colour than what I ordered.
+TK-1349,2026-10-21 11:47,Chat,New,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,6.47,27.89,False,4.0,Courier marked order NC966539 as delivered but I never received anything.
+TK-1350,2026-10-21 12:06,Web Form,New,Complaint / Escalation,Urgent,Negative,Senior Support,Billing,True,2,2,7.29,18.6,True,,Nobody has replied to me for three days. Escalate this immediately.
+TK-1351,2026-10-21 12:53,Chat,Regular,Payment Failure,High,Neutral,Billing,Billing,False,0,6,1.75,6.41,False,,Money was deducted from my account but order NC604373 shows payment failed.
+TK-1352,2026-10-21 13:18,Email,Regular,Product Inquiry,Low,Positive,General Support,General Support,False,0,24,16.38,33.94,False,4.0,Can you tell me if this item is suitable for sensitive skin?
+TK-1353,2026-10-21 14:05,Social Media,Regular,Product Inquiry,Medium,Positive,General Support,General Support,False,0,12,8.78,45.78,False,,Does the blender come with a warranty and what does it cover?
+TK-1354,2026-10-21 15:44,Web Form,Regular,Account / Login,Low,Positive,Tech Support,Tech Support,False,0,24,8.13,41.31,False,4.0,My account was locked after several password attempts.
+TK-1355,2026-10-21 16:22,Web Form,Regular,Damaged / Wrong Item,Low,Negative,Logistics,Logistics,False,0,24,13.27,34.84,False,5.0,I received a different colour than what I ordered.
+TK-1356,2026-10-21 23:25,Email,Regular,Delivery Delay,Low,Negative,Logistics,Billing,True,1,24,13.2,58.82,False,,Courier marked order NC334908 as delivered but I never received anything.
+TK-1357,2026-10-22 02:58,Chat,Regular,Payment Failure,High,Negative,Billing,Tech Support,True,1,6,8.95,26.28,True,2.0,Payment keeps failing at checkout with my UPI app.
+TK-1358,2026-10-22 09:14,Chat,Premium,Refund / Return,High,Neutral,Billing,Billing,False,0,6,7.05,20.06,True,,Refund was issued for less than the amount I paid on order NC563782.
+TK-1359,2026-10-22 10:03,Email,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,11.52,36.87,False,4.0,My order NC842818 was due 5 days ago and tracking has not updated. Where is it?
+TK-1360,2026-10-22 10:40,Web Form,New,Payment Failure,High,Negative,Billing,Billing,False,0,6,4.93,31.52,False,,Money was deducted from my account but order NC399780 shows payment failed.
+TK-1361,2026-10-22 11:56,Email,New,Product Inquiry,Low,Neutral,General Support,General Support,False,0,24,16.02,46.03,False,4.0,Can you tell me if this item is suitable for sensitive skin?
+TK-1362,2026-10-22 13:07,Email,Regular,Refund / Return,Low,Neutral,Billing,Billing,False,0,24,9.17,34.04,False,,How do I return a product that does not fit? The return link is not working.
+TK-1363,2026-10-22 15:20,Chat,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,20.71,66.52,True,4.0,My order NC202274 was due 5 days ago and tracking has not updated. Where is it?
+TK-1364,2026-10-22 16:31,Web Form,Regular,Delivery Delay,Urgent,Negative,Logistics,Logistics,False,0,2,1.87,15.27,False,4.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1365,2026-10-22 19:56,Email,Premium,Damaged / Wrong Item,Low,Negative,Logistics,Logistics,False,0,24,7.76,33.7,False,,I received a different colour than what I ordered.
+TK-1366,2026-10-22 22:58,Chat,New,Complaint / Escalation,High,Negative,Senior Support,Senior Support,False,0,6,2.72,23.35,False,3.0,Nobody has replied to me for three days. Escalate this immediately.
+TK-1367,2026-10-23 01:10,Email,Regular,Complaint / Escalation,High,Negative,Senior Support,Logistics,True,2,6,12.03,42.2,True,3.0,Terrible service. I will post a review and dispute the charge if this is not fixed today.
+TK-1368,2026-10-23 08:07,Chat,Regular,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,9.5,26.2,False,,My order NC894477 was due 5 days ago and tracking has not updated. Where is it?
+TK-1369,2026-10-23 09:42,Chat,Regular,Payment Failure,Urgent,Neutral,Billing,Billing,False,0,2,1.98,8.09,False,4.0,I was charged twice for order NC425012. Please reverse one payment.
+TK-1370,2026-10-23 14:47,Email,Regular,Delivery Delay,Low,Neutral,Logistics,General Support,True,2,24,44.83,84.61,True,,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1371,2026-10-23 14:51,Chat,Regular,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,6.25,40.12,False,4.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1372,2026-10-23 15:48,Web Form,Regular,Complaint / Escalation,Urgent,Negative,Senior Support,Senior Support,False,0,2,2.37,16.03,True,3.0,This is the third time I am contacting you about order NC543874. No one has solved it. I want a manager.
+TK-1373,2026-10-23 17:22,Email,Premium,Product Inquiry,Low,Positive,General Support,General Support,False,0,24,23.58,48.39,False,4.0,Is this product available in size M and when will it restock?
+TK-1374,2026-10-24 06:43,Web Form,New,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,3.8,53.63,False,4.0,My order NC537998 was due 5 days ago and tracking has not updated. Where is it?
+TK-1375,2026-10-24 07:37,Web Form,Regular,Account / Login,High,Neutral,Tech Support,Tech Support,False,0,6,3.24,25.3,False,4.0,My account was locked after several password attempts.
+TK-1376,2026-10-24 08:19,Email,Regular,Refund / Return,Medium,Neutral,Billing,General Support,True,1,12,4.0,82.34,False,4.0,How do I return a product that does not fit? The return link is not working.
+TK-1377,2026-10-24 09:10,Chat,Regular,Damaged / Wrong Item,Medium,Negative,Logistics,Logistics,False,0,12,4.09,20.5,False,,Parcel was open and a product is missing from order NC359961.
+TK-1378,2026-10-24 11:11,Email,Regular,Payment Failure,Medium,Neutral,Billing,Billing,False,0,12,15.79,34.61,True,4.0,Money was deducted from my account but order NC109348 shows payment failed.
+TK-1379,2026-10-24 14:39,Web Form,New,Refund / Return,High,Negative,Billing,Billing,False,0,6,2.32,20.51,False,3.0,I returned order NC519207 two weeks ago and have not received my refund.
+TK-1380,2026-10-24 14:51,Web Form,Premium,Damaged / Wrong Item,High,Neutral,Logistics,Logistics,False,0,6,3.74,14.79,False,5.0,I received a different colour than what I ordered.
+TK-1381,2026-10-24 17:03,Chat,Regular,Complaint / Escalation,Medium,Negative,Senior Support,Senior Support,False,0,12,4.21,21.41,False,,This is the third time I am contacting you about order NC469484. No one has solved it. I want a manager.
+TK-1382,2026-10-24 19:38,Email,New,Damaged / Wrong Item,High,Neutral,Logistics,Logistics,False,0,6,3.8,23.39,False,,I received a different colour than what I ordered.
+TK-1383,2026-10-25 09:38,Web Form,Regular,Account / Login,Low,Negative,Tech Support,Tech Support,False,0,24,42.59,56.32,True,3.0,Please update the mobile number on my account.
+TK-1384,2026-10-25 10:21,Email,New,Delivery Delay,Low,Negative,Logistics,Logistics,False,0,24,10.31,29.51,False,,My order NC957419 was due 5 days ago and tracking has not updated. Where is it?
+TK-1385,2026-10-25 10:53,Email,Regular,Account / Login,Low,Neutral,Tech Support,Tech Support,False,0,24,10.8,97.29,False,5.0,My account was locked after several password attempts.
+TK-1386,2026-10-25 12:03,Chat,New,Account / Login,Low,Negative,Tech Support,Logistics,True,2,24,23.35,50.45,False,,Please update the mobile number on my account.
+TK-1387,2026-10-25 12:04,Web Form,Regular,Account / Login,Urgent,Neutral,Tech Support,Tech Support,False,0,2,0.69,26.06,False,5.0,Please update the mobile number on my account.
+TK-1388,2026-10-25 14:18,Chat,Regular,Product Inquiry,Low,Positive,General Support,General Support,False,0,24,19.32,60.17,False,3.0,Is this product available in size M and when will it restock?
+TK-1389,2026-10-25 15:09,Email,New,Delivery Delay,Medium,Negative,Logistics,Logistics,False,0,12,4.8,66.31,False,4.0,My order NC452173 was due 5 days ago and tracking has not updated. Where is it?
+TK-1390,2026-10-25 16:27,Web Form,New,Product Inquiry,Low,Positive,General Support,General Support,False,0,24,7.54,49.55,False,,Does the blender come with a warranty and what does it cover?
+TK-1391,2026-10-25 16:37,Chat,Regular,Account / Login,Low,Neutral,Tech Support,Tech Support,False,0,24,9.25,74.12,False,,My account was locked after several password attempts.
+TK-1392,2026-10-25 17:33,Email,New,Payment Failure,Medium,Neutral,Billing,Billing,False,0,12,4.45,84.01,False,4.0,Money was deducted from my account but order NC380530 shows payment failed.
+TK-1393,2026-10-25 18:12,Web Form,New,Delivery Delay,Medium,Neutral,Logistics,Logistics,False,0,12,10.28,63.27,False,4.0,Package still not delivered after 8 days. I need it urgently for a gift.
+TK-1394,2026-10-25 21:54,Chat,Premium,Payment Failure,Urgent,Neutral,Billing,Billing,False,0,2,0.66,4.51,False,4.0,I was charged twice for order NC945922. Please reverse one payment.
+TK-1395,2026-10-25 22:52,Chat,Regular,Payment Failure,High,Negative,Billing,Billing,False,0,6,4.32,41.59,False,4.0,Payment keeps failing at checkout with my UPI app.
+TK-1396,2026-10-26 08:09,Social Media,New,Payment Failure,High,Neutral,Billing,Billing,False,0,6,7.37,16.88,True,,Payment keeps failing at checkout with my UPI app.
+TK-1397,2026-10-26 10:20,Web Form,Regular,Refund / Return,Urgent,Negative,Billing,Billing,False,0,2,1.71,5.26,False,3.0,I returned order NC534010 two weeks ago and have not received my refund.
+TK-1398,2026-10-26 13:16,Chat,New,Refund / Return,Medium,Negative,Billing,Billing,False,0,12,10.19,66.75,False,4.0,How do I return a product that does not fit? The return link is not working.
+TK-1399,2026-10-26 14:40,Email,New,Damaged / Wrong Item,Urgent,Neutral,Logistics,Logistics,False,0,2,2.89,9.48,True,4.0,I received a different colour than what I ordered.
+TK-1400,2026-10-26 14:45,Web Form,New,Account / Login,Medium,Positive,Tech Support,Tech Support,False,0,12,7.37,31.76,False,5.0,Please update the mobile number on my account.

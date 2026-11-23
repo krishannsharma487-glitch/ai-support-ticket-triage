@@ -1,0 +1,8 @@
+category,tickets,breach,misroute,frt,csat
+Delivery Delay,103,0.272,0.155,10.453,4.068
+Refund / Return,74,0.27,0.176,8.038,3.792
+Payment Failure,49,0.327,0.204,5.813,3.586
+Account / Login,47,0.255,0.064,9.199,4.118
+Complaint / Escalation,47,0.404,0.383,6.621,3.379
+Damaged / Wrong Item,40,0.25,0.275,8.775,3.875
+Product Inquiry,40,0.225,0.175,15.743,4.0
